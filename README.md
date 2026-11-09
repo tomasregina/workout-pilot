@@ -5,7 +5,7 @@ Static website for GitHub Pages. Contains only public website assets, not the iO
 ## Publish
 Repository: https://github.com/tomasregina/workout-pilot
 
-GitHub Pages is configured to publish the `main` branch from `/ (root)`. Commit changes to the website files to deploy updates automatically.
+GitHub Pages uses the GitHub Actions source and `.github/workflows/pages.yml` to publish the `main` branch. Commit changes to the website files to deploy updates automatically.
 
 App Store Connect URLs (available after a successful deployment):
 - Marketing: https://tomasregina.github.io/workout-pilot/
