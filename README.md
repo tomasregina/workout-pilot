@@ -3,9 +3,11 @@
 Static website for GitHub Pages. Contains only public website assets, not the iOS app source.
 
 ## Publish
-Create the public repository `tomasregina/workout-pilot`. Upload this folder’s contents to its `main` branch. In Settings → Pages select Deploy from a branch, main, / (root), then Save.
+Repository: https://github.com/tomasregina/workout-pilot
 
-Expected URLs after deployment:
+GitHub Pages is configured to publish the `main` branch from `/ (root)`. Commit changes to the website files to deploy updates automatically.
+
+App Store Connect URLs (available after a successful deployment):
 - Marketing: https://tomasregina.github.io/workout-pilot/
 - Support: https://tomasregina.github.io/workout-pilot/support.html
 - Privacy: https://tomasregina.github.io/workout-pilot/privacy.html
